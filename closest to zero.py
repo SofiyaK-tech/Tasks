@@ -1,5 +1,4 @@
-def find_closest_sum_to_zero(numbers):
-    
+def find_closest_sum_to_zero(numbers):  
     if len(numbers) < 2:
         return None
 
